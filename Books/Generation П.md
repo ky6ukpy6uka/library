@@ -1,0 +1,28 @@
+---
+title: "Generation 'П'"
+author: "Виктор Олегович Пелевин"
+type: fiction
+direction: [fiction]
+format: 
+status: read
+rating: 8
+date_started: 
+date_finished: 2014-06-23
+source: readly
+tags: [book]
+---
+# Generation "П"
+
+## О чём на самом деле
+
+## Персонажи и их выбор
+
+## Темы
+
+## Что зацепило
+
+## Перекликается с
+
+## Что помню
+
+## Цитаты
